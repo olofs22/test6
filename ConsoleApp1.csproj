@@ -3,12 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>false</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include=".github\pull_request_template.md" />
+    <None Remove=".github\pull_request_template.md" />
   </ItemGroup>
 
   <ItemGroup>

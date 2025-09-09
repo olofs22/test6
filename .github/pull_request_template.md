@@ -1,23 +1,16 @@
-## Sammanfattning
-Beskriv kortfattat vad som har ändrats i denna pull request. Vilket problem löser det, eller vilken funktionalitet lägger det till?
+# 📝 Pull Request
 
-## Typ av ändring
-Markera det som är relevant:
+## 📌 Beskrivning
+_Sammanfatta vad PR:en gör._
 
-- [ ] Buggfix
-- [ ] Ny funktion
-- [ ] Förbättring/refaktorering
-- [ ] Dokumentationsändring
-- [ ] Annat (specificera nedan)
+## 🔍 Motivation & Kontekst
+_Varför behövs den här ändringen? Koppla gärna till issue, bug eller feature-request._
 
-## Hur har ändringen testats?
-Beskriv hur du har testat ändringarna. Nämn gärna testmiljö, manuella tester eller automatiserade tester.
+## ✅ Checklista
+- [ ] Koden bygger utan fel
+- [ ] Alla relevanta tester passerar
+- [ ] Dokumentation är uppdaterad (om nödvändigt)
+- [ ] Ingen känslig info är inkluderad
 
-## Checklista
-- [ ] Koden följer projektets kodstandard
-- [ ] Lämpliga tester har lagts till eller uppdaterats
-- [ ] Dokumentation har uppdaterats vid behov
-- [ ] PR:en är klar för granskning
-
-## Övrig information
-Annan relevant information som kan vara bra för granskaren att känna till.
+## 🔗 Relaterade Issues
+_Fixa t.ex. `Closes #123` för automatisk issue-stängning._
