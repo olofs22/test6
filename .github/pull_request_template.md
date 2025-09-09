@@ -1,4 +1,4 @@
-﻿## Sammanfattning
+## Sammanfattning
 Beskriv kortfattat vad som har ändrats i denna pull request. Vilket problem löser det, eller vilken funktionalitet lägger det till?
 
 ## Typ av ändring
