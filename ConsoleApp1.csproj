@@ -11,4 +11,8 @@
     <Compile Include=".github\pull_request_template.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\pull_request_check.yml" />
+  </ItemGroup>
+
 </Project>

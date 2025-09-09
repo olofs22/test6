@@ -1,0 +1,16 @@
+name: .NET Build
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build .NET project
+    runs-on: ubuntu-latest
+
+    steps:
